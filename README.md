@@ -1,10 +1,7 @@
 # Simulation 7 - Dynamic SQL Execution and Security (DSL)
 
-# Course
-SQL Server Development
-
-# Database
-AdventureWorks2022
+Name: Tandin Phurba
+Std No: N01654961
 
 # Overview
 This simulation demonstrates secure and vulnerable dynamic SQL execution in SQL Server using AdventureWorks2022. The project includes execution logging, input validation, summary reporting, and comparison of secure and insecure SQL construction methods.
